@@ -1,4 +1,4 @@
 package overrides;
 
-public class Overrides\ {
+public class Overrides {
 }
