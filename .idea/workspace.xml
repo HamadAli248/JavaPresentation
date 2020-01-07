@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77159d16-367b-448f-8618-ecbbeca2b8ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/castingValues/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/castingValues/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overrides/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overrides/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/castingValues/CastingValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/castingValues/CastingValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/castingValues/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/castingValues/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/overrides/Overrides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overrides/Overrides.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +36,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="overrides" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,26 +82,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1578399208938">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1578400469410">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1578399208938" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578399657887">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1578400469410" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578400892397">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578399657887" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578399657885">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578400892397" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578400892396">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578399657885" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578399657884">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578400892396" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578400892394">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578399657884" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578399657886">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578400892394" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578400892397">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578399657886" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578400892397" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Presentation$App.ic" NAME="App Coverage Results" MODIFIED="1578399657861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
