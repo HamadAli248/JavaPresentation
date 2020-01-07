@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JavaPresentation.iml" filepath="$PROJECT_DIR$/JavaPresentation.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/JavaPresent.iml" filepath="$PROJECT_DIR$/JavaPresent.iml" />
+>>>>>>> added arrays, multi dimensional araays and dowhile loops
     </modules>
   </component>
 </project>
