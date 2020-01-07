@@ -1,4 +1,5 @@
 import castingValues.CastingValues;
+import interfaces.Interfaces;
 import overrides.Overrides;
 
 public class App {
@@ -6,5 +7,6 @@ public class App {
 
         new CastingValues();
         new Overrides();
+        new Interfaces();
     }
 }
